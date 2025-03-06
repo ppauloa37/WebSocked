@@ -10,8 +10,3 @@ não quer fazer muita coisa este repositorio pode te ajudar
 
 
 
-## Instalação
-
-1. Clone o repositório
-   ```bash
-   git clone https://github.com/usuario/meu-projeto.git
